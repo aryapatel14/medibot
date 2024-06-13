@@ -1,29 +1,35 @@
 Medi-Bot: Health Monitoring System (IoT Based) 🚑📱 
+
 Stay Connected, Stay Healthy – Your Health, Monitored Anytime, Anywhere! 🌡️💖
 
 **Overview**
+
 We have created a health monitoring system that will check all of patients’ vitals through one ‘portable box-kit’. The results will show up on your phone, or any other device that has access to a browser which is useful for any households that have patients with illnesses or diseases.
 
 **Features**
-📊 Room Temperature
-💧 Room Humidity
-❤️ Heart Rate
-🩸 Blood Oxygen
-🌡️ Body Temperature
 
-**Why? Problem?** 🤔
+1. 📊 Room Temperature
+2. 💧 Room Humidity
+3. ❤️ Heart Rate
+4. 🩸 Blood Oxygen
+5. 🌡️ Body Temperature
+
+**Why? Problem? 🤔**
+
 There are 750,000 people living with heart failure and 100,000 people are diagnosed with incurable conditions each year. Statistically, illness is bound to touch one in three Canadians, and most leading causes of death are commonly related to non-communicable diseases including respiratory, cardiovascular, heart diseases, and various types of cancer.
 
 In many households, there are often individuals affected by illnesses or the elderly that need careful monitoring. Regularly checking vitals and important health parameters is crucial to maintaining strong and healthy physical well-being. With fast-paced lifestyles and busy schedules, having access to check your vitals easily via your phone can prevent excessive trips to doctors and clinics and avoid major health difficulties.
 
-**How? Our Solution?** 💡
+**How? Our Solution? 💡**
+
 With various biomedical innovations and new technologically based machinery, AI and IoT systems are becoming vital in the healthcare industry. We are proposing the IoT-Based Health Monitoring System: a portable kit that allows users to monitor their body temperature, heart rate (BPM), blood oxygen, taking into consideration room temperature, and room humidity as well, anywhere and anytime!
 
 **Sensors Used:**
-🌡️ Body Temperature Sensor
-💓 Pulse Oximeter Sensor Module (measures heart rate & blood oxygen)
-🌡️ Temperature Sensor 
-💧 Humidity Sensor
+
+- 🌡️ Body Temperature Sensor
+- 💓 Pulse Oximeter Sensor Module (measures heart rate & blood oxygen)
+- 🌡️ Temperature Sensor 
+- 💧 Humidity Sensor
 
 Stay ahead of your health, effortlessly and effectively, with Medi-Bot! 🚑📱
 
