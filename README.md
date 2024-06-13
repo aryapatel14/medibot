@@ -2,11 +2,11 @@ Medi-Bot: Health Monitoring System (IoT Based) 🚑📱
 
 Stay Connected, Stay Healthy – Your Health, Monitored Anytime, Anywhere! 🌡️💖
 
-**Overview**
+**Introduction 🤖**
 
-We have created a health monitoring system that will check all of patients’ vitals through one ‘portable box-kit’. The results will show up on your phone, or any other device that has access to a browser which is useful for any households that have patients with illnesses or diseases.
+Medi-Bot is a revolutionary health monitoring system designed to check all of a patient’s vitals through a single, portable box-kit. The results are conveniently displayed on your phone or any device with browser access, making it incredibly useful for households with patients suffering from illnesses or diseases. With Medi-Bot, you can keep a vigilant eye on your loved ones' health, anytime and anywhere, ensuring peace of mind and timely interventions.
 
-**Features**
+**Features 🔋**
 
 1. 📊 Room Temperature
 2. 💧 Room Humidity
