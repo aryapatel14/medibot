@@ -1,5 +1,37 @@
-Medi-Bot: Health Monitoring System (IoT Based)
-Stay Connected, Stay Healthy – Your Health, Monitored Anytime, Anywhere!
+Medi-Bot: Health Monitoring System (IoT Based) 🚑📱 
+
+Stay Connected, Stay Healthy – Your Health, Monitored Anytime, Anywhere! 🌡️💖
+
+Overview
+
+We have created a health monitoring system that will check all of patients’ vitals through one ‘portable box-kit’. The results will show up on your phone, or any other device that has access to a browser which is useful for any households that have patients with illnesses or diseases.
+
+Features
+📊 Room Temperature
+💧 Room Humidity
+❤️ Heart Rate
+🩸 Blood Oxygen
+🌡️ Body Temperature
+Why? Problem? 🤔
+There are 750,000 people living with heart failure and 100,000 people are diagnosed with incurable conditions each year. Statistically, illness is bound to touch one in three Canadians, and most leading causes of death are commonly related to non-communicable diseases including respiratory, cardiovascular, heart diseases, and various types of cancer.
+
+In many households, there are often individuals affected by illnesses or the elderly that need careful monitoring. Regularly checking vitals and important health parameters is crucial to maintaining strong and healthy physical well-being. With fast-paced lifestyles and busy schedules, having access to check your vitals easily via your phone can prevent excessive trips to doctors and clinics and avoid major health difficulties.
+
+How? Solution? 💡
+With various biomedical innovations and new technologically based machinery, AI and IoT systems are becoming vital in the healthcare industry. We are proposing the IoT-Based Health Monitoring System: a portable kit that allows users to monitor their body temperature, heart rate (BPM), blood oxygen, room temperature, and room humidity.
+
+Sensors Used:
+🌡️ Body Temperature Sensor
+💓 Pulse Oximeter Sensor Module (measures heart rate & blood oxygen)
+🌡️ Temperature Sensor 
+💧 Humidity Sensor
+
+Stay ahead of your health, effortlessly and effectively, with Medi-Bot! 🚑📱
+
+
+
+
+
 
 ![World Quality Day by Slidesgo  Autosaved pptx](https://github.com/aryapatel14/medibot/assets/138143934/31d94f63-6dc8-4cd3-9697-49eb69e8e82f)
 ![Final Summative-images-2](https://github.com/aryapatel14/medibot/assets/138143934/2e5124c8-48f3-4f0b-ba99-5d9650bf4358)
