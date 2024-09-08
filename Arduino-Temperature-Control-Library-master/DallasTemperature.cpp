@@ -1,13 +1,5 @@
-// This library is free software; you can redistribute it and/or
-// modify it under the terms of the GNU Lesser General Public
-// License as published by the Free Software Foundation; either
-// version 2.1 of the License, or (at your option) any later version.
-
 #include "DallasTemperature.h"
 
-// for Particle support
-// yield() is not a standard function, but instead wraps Particle process
-// https://community.particle.io/t/syscall-yield-operation/40708/2
 #if defined(PLATFORM_ID)  // Only defined if a Particle device
 inline void yield() {
 	Particle.process();
@@ -80,10 +72,7 @@ bool DallasTemperature::validFamily(const uint8_t* deviceAddress) {
 	}
 }
 
-/*
- * Constructs DallasTemperature with strong pull-up turned on. Strong pull-up is mandated in DS18B20 datasheet for parasitic
- * power (2 wires) setup. (https://datasheets.maximintegrated.com/en/ds/DS18B20.pdf, p. 7, section 'Powering the DS18B20').
- */
+
 DallasTemperature::DallasTemperature(OneWire* _oneWire, uint8_t _pullupPin) : DallasTemperature(_oneWire) {
 	setPullupPin(_pullupPin);
 }
